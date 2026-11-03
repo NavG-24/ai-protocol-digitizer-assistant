@@ -1,0 +1,980 @@
+{
+  "name": "NCT05882357",
+  "pages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "soa": {
+    "study": "VX22-445-122",
+    "visits": [
+      {
+        "visit": "Screening Visit 1",
+        "period": "Part A Screening Period",
+        "timing": "Day -28 to Day -5",
+        "window": "",
+        "page": 8
+      },
+      {
+        "visit": "Screening Visit 2",
+        "period": "Part A Screening Period",
+        "timing": "Day -9 to Day -5",
+        "window": "",
+        "page": 8
+      },
+      {
+        "visit": "Day 1",
+        "period": "Part A Treatment Period",
+        "timing": "Day 1",
+        "window": "",
+        "page": 9
+      },
+      {
+        "visit": "Day 2 and Day 4",
+        "period": "Part A Treatment Period",
+        "timing": "Day 2 and Day 4",
+        "window": "± 1 Day",
+        "page": 9
+      },
+      {
+        "visit": "Day 8",
+        "period": "Part A Treatment Period",
+        "timing": "Day 8",
+        "window": "± 1 Day",
+        "page": 9
+      },
+      {
+        "visit": "Day 15",
+        "period": "Part A Treatment Period",
+        "timing": "Day 15",
+        "window": "± 1 Day",
+        "page": 9
+      },
+      {
+        "visit": "ETT Visit",
+        "period": "Part A Treatment Period",
+        "timing": "Early termination of treatment",
+        "window": "",
+        "page": 9
+      },
+      {
+        "visit": "Safety Follow-up Visit",
+        "period": "Part A Safety Follow-up",
+        "timing": "28 Days After Last Dose of Study Drug",
+        "window": "± 7 Days",
+        "page": 9
+      },
+      {
+        "visit": "Screening Visit 1",
+        "period": "Part B Screening Period",
+        "timing": "Day -28 to Day -5",
+        "window": "",
+        "page": 11
+      },
+      {
+        "visit": "Screening Visit 2",
+        "period": "Part B Screening Period",
+        "timing": "Day -9 to Day -5",
+        "window": "",
+        "page": 11
+      },
+      {
+        "visit": "Day 1",
+        "period": "Part B Treatment Period",
+        "timing": "Day 1",
+        "window": "",
+        "page": 13
+      },
+      {
+        "visit": "Day 3",
+        "period": "Part B Treatment Period",
+        "timing": "Day 3",
+        "window": "± 1 day",
+        "page": 13
+      },
+      {
+        "visit": "Day 15",
+        "period": "Part B Treatment Period",
+        "timing": "Day 15",
+        "window": "± 3 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 4",
+        "period": "Part B Treatment Period",
+        "timing": "Week 4",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 8",
+        "period": "Part B Treatment Period",
+        "timing": "Week 8",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 12",
+        "period": "Part B Treatment Period",
+        "timing": "Week 12",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 16",
+        "period": "Part B Treatment Period",
+        "timing": "Week 16",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 20",
+        "period": "Part B Treatment Period",
+        "timing": "Week 20",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "Week 24",
+        "period": "Part B Treatment Period",
+        "timing": "Week 24",
+        "window": "± 5 days",
+        "page": 13
+      },
+      {
+        "visit": "ETT Visit",
+        "period": "Part B Treatment Period",
+        "timing": "Early termination of treatment",
+        "window": "",
+        "page": 13
+      },
+      {
+        "visit": "Safety Follow-up Visit",
+        "period": "Part B Safety Follow-up",
+        "timing": "28 Days After the Last Dose of Study Drug",
+        "window": "± 7 Days",
+        "page": 13
+      }
+    ],
+    "assessments": [
+      {
+        "assessment": "Informed consent",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "",
+        "page": 8
+      },
+      {
+        "assessment": "Demographics",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.1",
+        "page": 8
+      },
+      {
+        "assessment": "Medical history",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.1",
+        "page": 8
+      },
+      {
+        "assessment": "Ophthalmologic examination",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Conducted by licensed practitioner (Section 11.5.5). Not needed if documented exam meeting protocol requirements within 3 months before informed consent.",
+        "page": 8
+      },
+      {
+        "assessment": "Full physical examination",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 8
+      },
+      {
+        "assessment": "Weight and height (length)",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1",
+          "Screening Visit 2"
+        ],
+        "notes": "Measured in dry diaper or underclothes only (Section 11.5.3). Only a single measurement required if concurrent Screening Visit 1 and 2.",
+        "page": 8
+      },
+      {
+        "assessment": "Vital signs and pulse oximetry",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "After at least 5 minutes rest, if possible (Section 11.5.3).",
+        "page": 8
+      },
+      {
+        "assessment": "Standard 12-lead ECG",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Before procedures that may affect heart rate, supine, after 5 minutes rest if possible (Section 11.5.4).",
+        "page": 8
+      },
+      {
+        "assessment": "Serum chemistry",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Results must be received and reviewed before first dose on Day 1 (Section 11.5.2). Screening Visits 1 and 2 may be concurrent between Day -9 and Day -5 for subjects with historical CFTR genotype report.",
+        "page": 8
+      },
+      {
+        "assessment": "Hematology",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Results must be received and reviewed before first dose on Day 1 (Section 11.5.2).",
+        "page": 8
+      },
+      {
+        "assessment": "Coagulation",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Section 11.5.2",
+        "page": 8
+      },
+      {
+        "assessment": "Medications review",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Medications taken within 56 days before Screening Visit 1 collected (Section 9.5).",
+        "page": 8
+      },
+      {
+        "assessment": "Adverse events",
+        "category": "Part A Screening",
+        "visits": [
+          "Screening Visit 1",
+          "Screening Visit 2"
+        ],
+        "notes": "Continuous from signing of ICF through completion of study participation (Section 13.1; Section 9.1.6).",
+        "page": 8
+      },
+      {
+        "assessment": "Clinic visit",
+        "category": "Part A Treatment",
+        "visits": [
+          "Day 1",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "",
+        "page": 9
+      },
+      {
+        "assessment": "Telephone contact",
+        "category": "Part A Treatment",
+        "visits": [
+          "Day 2 and Day 4"
+        ],
+        "notes": "Assess subject's status, AEs, concomitant medications, treatments, and procedures.",
+        "page": 9
+      },
+      {
+        "assessment": "CF genotype (all subjects)",
+        "category": "Part A Treatment",
+        "visits": [
+          "Day 1"
+        ],
+        "notes": "Subjects without historical CFTR genotype report will have genotyping at Screening Visit 1 instead of Day 1; must be confirmed before first dose (Appendix A).",
+        "page": 9
+      },
+      {
+        "assessment": "Full physical examination",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Symptom-directed exams at any time if deemed necessary (Section 11.5.3). All assessments before dosing unless noted otherwise.",
+        "page": 9
+      },
+      {
+        "assessment": "Weight and height (length)",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Measured in dry diaper or underclothes only (Section 11.5.3).",
+        "page": 9
+      },
+      {
+        "assessment": "Vital signs and pulse oximetry",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 9
+      },
+      {
+        "assessment": "Standard 12-lead ECG",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.4",
+        "page": 9
+      },
+      {
+        "assessment": "Serum chemistry",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.2",
+        "page": 9
+      },
+      {
+        "assessment": "Hematology",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.2",
+        "page": 9
+      },
+      {
+        "assessment": "Observation 4 hours after the AM dose",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1"
+        ],
+        "notes": "Section 9.6.1",
+        "page": 9
+      },
+      {
+        "assessment": "Medications review",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 2 and Day 4",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous, from signing of ICF through completion of study participation (Section 9.1.6).",
+        "page": 9
+      },
+      {
+        "assessment": "Non-pharmacological treatments and procedures review",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 2 and Day 4",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous, from signing of ICF through completion of study participation (Section 9.1.6).",
+        "page": 9
+      },
+      {
+        "assessment": "Adverse events",
+        "category": "Part A Safety Assessments",
+        "visits": [
+          "Day 1",
+          "Day 2 and Day 4",
+          "Day 8",
+          "Day 15",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous, from signing of ICF through completion of study participation (Section 13.1).",
+        "page": 9
+      },
+      {
+        "assessment": "PK sampling",
+        "category": "Part A PK Assessments",
+        "visits": [
+          "Day 1",
+          "Day 8",
+          "Day 15"
+        ],
+        "notes": "Day 1: 2 h post AM dose; Day 8: predose and 1.5 h post; Day 15: predose and 3.5 and 6 h post. If study drug not administered, only 1 PK sample.",
+        "page": 10
+      },
+      {
+        "assessment": "Study drug dosing",
+        "category": "Part A Study Drug Administration",
+        "visits": [
+          "Day 1",
+          "Day 2 and Day 4",
+          "Day 8",
+          "Day 15"
+        ],
+        "notes": "ELX/TEZ/IVA Day 1 through Day 15; AM dose only on Day 15. Within ~30 minutes of fat-containing meal (Section 9.6).",
+        "page": 10
+      },
+      {
+        "assessment": "Study drug count",
+        "category": "Part A Study Drug Administration",
+        "visits": [
+          "Day 8",
+          "Day 15",
+          "ETT Visit"
+        ],
+        "notes": "Section 10.4",
+        "page": 10
+      },
+      {
+        "assessment": "Informed consent",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "",
+        "page": 11
+      },
+      {
+        "assessment": "Demographics",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.1",
+        "page": 11
+      },
+      {
+        "assessment": "Medical history",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.1",
+        "page": 11
+      },
+      {
+        "assessment": "Ophthalmologic examination",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.5.5. Not needed if documented exam within 3 months before informed consent.",
+        "page": 11
+      },
+      {
+        "assessment": "Full physical examination",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 11
+      },
+      {
+        "assessment": "Weight and height (length)",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1",
+          "Screening Visit 2"
+        ],
+        "notes": "Only a single measurement required if concurrent Screening Visit 1 and 2 (Section 11.5.3).",
+        "page": 11
+      },
+      {
+        "assessment": "Vital signs and pulse oximetry",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 11
+      },
+      {
+        "assessment": "Standard 12-lead ECG",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.5.4",
+        "page": 11
+      },
+      {
+        "assessment": "Multiple-breath washout",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Only for subjects consented for optional LCI Substudy; multiple replicates pre-bronchodilator (Section 11.4.2).",
+        "page": 11
+      },
+      {
+        "assessment": "Sweat chloride",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Section 11.4.1",
+        "page": 11
+      },
+      {
+        "assessment": "Fecal sample collection",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1",
+          "Screening Visit 2"
+        ],
+        "notes": "Not needed at Screening Visit 2 if collected at Screening Visit 1; single collection if concurrent visits; SV2 sample may be collected at home up to 24 h before (Section 11.3.1).",
+        "page": 11
+      },
+      {
+        "assessment": "Blood biomarker sample (IRT)",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Results not expected before the first dose; Section 11.3.1.",
+        "page": 11
+      },
+      {
+        "assessment": "Serum chemistry",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Results must be reviewed before first dose on Day 1 (Section 11.5.2).",
+        "page": 11
+      },
+      {
+        "assessment": "Hematology",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "Results must be reviewed before first dose on Day 1 (Section 11.5.2).",
+        "page": 11
+      },
+      {
+        "assessment": "Coagulation",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 2"
+        ],
+        "notes": "If subject weighs <6.8 kg at screening, contact medical monitor to discuss timing of coagulation assessment. Section 11.5.2",
+        "page": 11
+      },
+      {
+        "assessment": "Medications review",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1"
+        ],
+        "notes": "Medications taken within 56 days before Screening Visit 1 collected (Section 9.5).",
+        "page": 12
+      },
+      {
+        "assessment": "Adverse events",
+        "category": "Part B Screening",
+        "visits": [
+          "Screening Visit 1",
+          "Screening Visit 2"
+        ],
+        "notes": "Continuous, from signing of ICF through completion of study participation (Section 13.1).",
+        "page": 12
+      },
+      {
+        "assessment": "Clinic visit",
+        "category": "Part B Treatment",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Safety Follow-up Visit not required for subjects who complete Week 24 and enroll in OLE or continue to commercial Vertex CFTR modulator within 28 days.",
+        "page": 13
+      },
+      {
+        "assessment": "Telephone contact",
+        "category": "Part B Treatment",
+        "visits": [
+          "Day 3"
+        ],
+        "notes": "Assess subject's status, AEs, concomitant medications, treatments, and procedures.",
+        "page": 13
+      },
+      {
+        "assessment": "CF genotype (all subjects)",
+        "category": "Part B Treatment",
+        "visits": [
+          "Day 1"
+        ],
+        "notes": "If subject weighs <7.6 kg at Day 1, contact medical monitor regarding timing. Subjects without historical report genotyped at Screening Visit 1 instead (Appendix A).",
+        "page": 13
+      },
+      {
+        "assessment": "Ophthalmologic examination",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Week 24: at or up to 4 weeks before. Section 11.5.5",
+        "page": 14
+      },
+      {
+        "assessment": "Full physical examination",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Week 12",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Symptom-directed exams at any time if necessary (Section 11.5.3).",
+        "page": 14
+      },
+      {
+        "assessment": "Weight and height (length)",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 14
+      },
+      {
+        "assessment": "Vital signs and pulse oximetry",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.3",
+        "page": 14
+      },
+      {
+        "assessment": "Standard 12-lead ECG",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 12",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.4",
+        "page": 15
+      },
+      {
+        "assessment": "Sweat chloride",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Week 4",
+          "Week 12",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Section 11.4.1",
+        "page": 15
+      },
+      {
+        "assessment": "Multiple-breath washout",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Week 12",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Only for LCI Substudy subjects. Day 1 MBW not needed if MBW performed and acceptable at screening (Section 11.4.2).",
+        "page": 15
+      },
+      {
+        "assessment": "Serum chemistry",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Section 11.5.2",
+        "page": 15
+      },
+      {
+        "assessment": "Hematology",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "If subject weighs <6.7 kg at Week 4, postpone hematology to unscheduled visit and contact medical monitor. Section 11.5.2",
+        "page": 15
+      },
+      {
+        "assessment": "Coagulation",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Week 20"
+        ],
+        "notes": "Section 11.5.2",
+        "page": 15
+      },
+      {
+        "assessment": "Observation 4 hours after the AM dose",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1"
+        ],
+        "notes": "Section 9.6.1",
+        "page": 15
+      },
+      {
+        "assessment": "Other events related to outcome",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 3",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous from signing of ICF through completion of study participation. Includes PEx, antibiotic therapy for sinopulmonary signs/symptoms, CF hospitalizations (Section 11.4.4).",
+        "page": 16
+      },
+      {
+        "assessment": "Medications review",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 3",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous from signing of ICF through completion of study participation (Section 9.1.6).",
+        "page": 16
+      },
+      {
+        "assessment": "Non-pharmacological treatments and procedures review",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 3",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous from signing of ICF through completion of study participation (Section 9.1.6).",
+        "page": 16
+      },
+      {
+        "assessment": "Adverse events",
+        "category": "Part B Safety and Efficacy Assessments",
+        "visits": [
+          "Day 1",
+          "Day 3",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit",
+          "Safety Follow-up Visit"
+        ],
+        "notes": "Continuous from signing of ICF through completion of study participation (Section 13.1).",
+        "page": 16
+      },
+      {
+        "assessment": "Fecal sample collection",
+        "category": "Part B Biomarker Assessments",
+        "visits": [
+          "Day 1",
+          "Day 15",
+          "Week 4",
+          "Week 12",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Day 1 must be predose. May be collected at home up to 24 h before visit; pre- or postdose otherwise (Section 11.3.1).",
+        "page": 17
+      },
+      {
+        "assessment": "Blood biomarker sample (IRT)",
+        "category": "Part B Biomarker Assessments",
+        "visits": [
+          "Day 15",
+          "Week 8",
+          "Week 12",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Section 11.3.1",
+        "page": 17
+      },
+      {
+        "assessment": "PK sampling",
+        "category": "Part B PK Assessments",
+        "visits": [
+          "Day 15",
+          "Week 4",
+          "Week 12",
+          "Week 16",
+          "ETT Visit"
+        ],
+        "notes": "Day 15: predose (within 60 min); Week 4: predose and 2.5 and 5.5 h post AM dose; Weeks 12 and 16: predose. Only 1 set if study drug not administered on visit day.",
+        "page": 17
+      },
+      {
+        "assessment": "Study drug dosing",
+        "category": "Part B Study Drug Administration",
+        "visits": [
+          "Day 1",
+          "Day 3",
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20"
+        ],
+        "notes": "ELX/TEZ/IVA Day 1 through evening before Week 24 Visit; within ~30 min of fat-containing meal (Section 9.6).",
+        "page": 18
+      },
+      {
+        "assessment": "Acceptability/palatability assessment",
+        "category": "Part B Study Drug Administration",
+        "visits": [
+          "Day 1",
+          "Week 24"
+        ],
+        "notes": "At Week 24, completed after first dose in OLE study; if not enrolling in OLE, only retrospective questions of facial hedonic scale (Section 11.3.2).",
+        "page": 18
+      },
+      {
+        "assessment": "Study drug count",
+        "category": "Part B Study Drug Administration",
+        "visits": [
+          "Day 15",
+          "Week 4",
+          "Week 8",
+          "Week 12",
+          "Week 16",
+          "Week 20",
+          "Week 24",
+          "ETT Visit"
+        ],
+        "notes": "Section 10.4",
+        "page": 19
+      }
+    ]
+  }
+}

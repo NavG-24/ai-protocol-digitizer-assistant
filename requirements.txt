@@ -1,0 +1,9 @@
+anthropic
+streamlit
+altair
+pypdf
+pymupdf
+pandas
+openpyxl
+jsonschema
+python-dateutil

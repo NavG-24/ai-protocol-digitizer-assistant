@@ -1,0 +1,103 @@
+{
+  "name": "NCT04736199",
+  "fields": {
+    "full_title": {
+      "value": "A randomized, double-blind, placebo-controlled Phase 3 study of darolutamide in addition to androgen deprivation therapy (ADT) versus placebo plus ADT in men with metastatic hormone-sensitive prostate cancer (mHSPC)",
+      "page": 2,
+      "source_text": "Protocol Title: A randomized, double-blind, placebo-controlled Phase 3 study of darolutamide in addition to androgen deprivation therapy (ADT) versus placebo plus ADT in men with metastatic hormone-sensitive prostate cancer (mHSPC)",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "short_title": {
+      "value": "Phase 3 study of darolutamide in addition to ADT versus placebo plus ADT in men with mHSPC",
+      "page": 2,
+      "source_text": "Short Title: Phase 3 study of darolutamide in addition to ADT versus placebo plus ADT in men with mHSPC",
+      "confidence": "high",
+      "acronym": "ARANOTE",
+      "method": "llm",
+      "verified": true
+    },
+    "sponsor_protocol_number": {
+      "value": "21140",
+      "page": 2,
+      "source_text": "Protocol Number: 21140 Clinical Study Protocol",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "nct_number": {
+      "value": "NCT04736199",
+      "page": 1,
+      "source_text": "NCT04736199",
+      "confidence": "high",
+      "method": "rule",
+      "verified": true
+    },
+    "other_ids": {
+      "value": "EudraCT: 2020-003093-48; IND: 114769",
+      "page": 2,
+      "source_text": "EudraCT: 2020-003093-48",
+      "confidence": "high",
+      "method": "rule",
+      "verified": true
+    },
+    "sponsor_name": {
+      "value": "Bayer Consumer Care AG (Non-US); Bayer HealthCare Pharmaceuticals Inc. (US territory)",
+      "page": 2,
+      "source_text": "Bayer Consumer Care AG, Peter-Merian-Strasse 84, 4052 Basel, Switzerland",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "protocol_version": {
+      "value": "Amendment 1 (Global), version 2.0",
+      "page": 2,
+      "source_text": "Amendment Number: Amendment 1 (Global)\nProtocol Version: 2.0",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "protocol_date": {
+      "value": "28 JUN 2022",
+      "page": 2,
+      "source_text": "28 JUN 2022",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "study_phase": {
+      "value": "Phase 3",
+      "page": 2,
+      "source_text": "Study Phase: 3",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "indication": {
+      "value": "Metastatic hormone-sensitive prostate cancer (mHSPC)",
+      "page": 2,
+      "source_text": "men with metastatic hormone-sensitive prostate cancer (mHSPC)",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "investigational_products": {
+      "value": "Darolutamide (BAY 1841788)",
+      "page": 2,
+      "source_text": "Compound: Darolutamide (BAY 1841788)",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    },
+    "primary_objective": {
+      "value": "To determine if darolutamide in addition to ADT is superior to placebo plus ADT by improving rPFS in participants with mHSPC",
+      "page": 30,
+      "source_text": "To determine if darolutamide in addition to ADT is superior to placebo plus ADT by improving rPFS in participants with mHSPC",
+      "confidence": "high",
+      "method": "llm",
+      "verified": true
+    }
+  },
+  "reviewed": []
+}

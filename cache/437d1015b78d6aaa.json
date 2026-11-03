@@ -1,0 +1,847 @@
+{
+  "name": "NCT06192108",
+  "pages": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "soa": {
+    "study": "ACHIEVE-2 (Study J2A-MC-GZGV)",
+    "visits": [
+      {
+        "visit": "601",
+        "period": "Prescreening",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "1",
+        "period": "Screening/Lead-In",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "2",
+        "period": "Screening/Lead-In",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "3",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "4",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "5",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "6",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "7",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "8",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "9",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "10",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "11",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "ED",
+        "period": "Treatment Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      },
+      {
+        "visit": "801",
+        "period": "Safety Follow-Up Period",
+        "timing": "",
+        "window": "",
+        "page": 19
+      }
+    ],
+    "assessments": [
+      {
+        "assessment": "Fasting Visit",
+        "category": "Visit characteristics",
+        "visits": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Abbreviated informed consent for prescreening",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Demographics",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Abbreviated self-reported questionnaire on medical history and medications",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "AEs",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Height",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Weight",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Hemoglobin A1c (HbA1c)",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 19
+      },
+      {
+        "assessment": "Recommend whether participant may proceed to V1",
+        "category": "Prescreening (V601) assessments only",
+        "visits": [
+          "601"
+        ],
+        "notes": "",
+        "page": 20
+      },
+      {
+        "assessment": "Informed consent",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 20
+      },
+      {
+        "assessment": "Inclusion/exclusion criteria; confirmation of eligibility",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1",
+          "2",
+          "3"
+        ],
+        "notes": "",
+        "page": 20
+      },
+      {
+        "assessment": "Demographics",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 20
+      },
+      {
+        "assessment": "Preexisting conditions and medical history, including relevant surgical history",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Prespecified medical history",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Prior treatments of interest",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Concomitant medications",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "AEs",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "Any events that occur after signing the informed consent are considered AEs as defined in Section. Additional data are collected for certain AEs. See Section 8.3.3",
+        "page": 21
+      },
+      {
+        "assessment": "Substance use (alcohol, caffeine, tobacco, nicotine replacement)",
+        "category": "Screening and other study specific assessments",
+        "visits": [
+          "3"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Height",
+        "category": "Physical evaluation",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Weight",
+        "category": "Physical evaluation",
+        "visits": [
+          "1",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 21
+      },
+      {
+        "assessment": "Physical examination",
+        "category": "Physical evaluation",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 22
+      },
+      {
+        "assessment": "Symptom-directed physical assessment",
+        "category": "Physical evaluation",
+        "visits": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "Symptom-directed physical assessment may be conducted at the discretion of the PI or qualified personnel as indicated per local regulations based on participant status and standard of care.",
+        "page": 22
+      },
+      {
+        "assessment": "Vital signs (triplicate)",
+        "category": "Physical evaluation",
+        "visits": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "Include pulse rate and blood pressure. Measured in triplicate after participant has been sitting at least 5 minutes. Vital signs should be taken before ECG tracing, if applicable. See Sections 8.2.2 and 10.9.",
+        "page": 22
+      },
+      {
+        "assessment": "ECG 12-lead (triplicate)",
+        "category": "Physical evaluation",
+        "visits": [
+          "3",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "Collect triplicate ECGs before blood samples for laboratory testing. ECG may be repeated at the investigator's discretion at any visit. See Section 8.2.3.",
+        "page": 22
+      },
+      {
+        "assessment": "Dispense or activate eDiary",
+        "category": "Participant diary (electronic)",
+        "visits": [
+          "2"
+        ],
+        "notes": "",
+        "page": 23
+      },
+      {
+        "assessment": "eDiary review",
+        "category": "Participant diary (electronic)",
+        "visits": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 23
+      },
+      {
+        "assessment": "Remind participants about [redacted]",
+        "category": "Participant diary (electronic)",
+        "visits": [
+          "2",
+          "8",
+          "10"
+        ],
+        "notes": "",
+        "page": 24
+      },
+      {
+        "assessment": "Review [redacted]",
+        "category": "Participant diary (electronic)",
+        "visits": [
+          "3",
+          "9",
+          "11"
+        ],
+        "notes": "",
+        "page": 24
+      },
+      {
+        "assessment": "eDiary return or inactivation",
+        "category": "Participant diary (electronic)",
+        "visits": [
+          "801"
+        ],
+        "notes": "",
+        "page": 24
+      },
+      {
+        "assessment": "SF-36 v2, Acute",
+        "category": "Patient-reported outcomes (electronic)",
+        "visits": [
+          "3",
+          "11",
+          "ED"
+        ],
+        "notes": "At Visit 3, PROs should be administered before the administration of the first dose of study intervention",
+        "page": 24
+      },
+      {
+        "assessment": "DTSQc",
+        "category": "Patient-reported outcomes (electronic)",
+        "visits": [
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Diabetes education (includes BG meter [redacted])",
+        "category": "Participant education",
+        "visits": [
+          "2"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Dispense BG meter and supplies, as needed",
+        "category": "Participant education",
+        "visits": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Hematology",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1",
+          "3",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Clinical chemistry",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Glucose",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Hemoglobin A1c (HbA1c)",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "601",
+          "1",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Lipids",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "6",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Lipase",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "6",
+          "9",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 25
+      },
+      {
+        "assessment": "Pancreatic amylase",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "6",
+          "9",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "Calcitonin",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1",
+          "6",
+          "9",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "Serum pregnancy",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "Urine pregnancy test (local)",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "11",
+          "ED",
+          "801"
+        ],
+        "notes": "The result must be available before the first dose of study intervention for WOCBP. Perform additional pregnancy tests if a menstrual period is missed, if there is clinical suspicion of pregnancy, or as required by local law or regulation.",
+        "page": 26
+      },
+      {
+        "assessment": "FSH",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "HCV screening tests",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "HBV screening tests",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1"
+        ],
+        "notes": "",
+        "page": 26
+      },
+      {
+        "assessment": "Cystatin-C",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1",
+          "3",
+          "4",
+          "6",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "eGFR",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "1",
+          "3",
+          "4",
+          "6",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "UACR",
+        "category": "Laboratory tests and sample collections",
+        "visits": [
+          "3",
+          "4",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Genetics sample",
+        "category": "Stored samples",
+        "visits": [
+          "3"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Exploratory biomarker",
+        "category": "Stored samples",
+        "visits": [
+          "3",
+          "6",
+          "9",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Register visit with IWRS",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "601",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "801"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Randomization via IWRS",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "3"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Dispense study intervention via IWRS",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Dispense study intervention to participant (for at home dosing)",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Participant returns unused study intervention",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      },
+      {
+        "assessment": "Assess study intervention compliance",
+        "category": "Randomization and dosing related activities for orforglipron or dapagliflozin",
+        "visits": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "ED"
+        ],
+        "notes": "",
+        "page": 27
+      }
+    ]
+  }
+}
